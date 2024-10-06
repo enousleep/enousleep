@@ -1,33 +1,26 @@
-<h1 align="center">Hi 👋, I'm Enou</h1>
-<h3 align="center">I'm from Vietnam. I enjoy devloped Discord bot. I would love to be friends with you.</h3>
+<h1 align="center"><b>ENOU456</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=enousleep&label=Profile%20views&color=0e75b6&style=flat" alt="enousleep" /> </p>
+## **About me**
 
-- 🔭 I’m currently working at [MG STUDIO](https://discord.gg/minhmg)
+<div>
+<br>
+  
+<img src="https://i.imgur.com/L1RmTtn.jpeg" width="190" align="right"/>
 
-- 🌱 I’m currently learning **python?**
+<br>
 
-- 🤝 I’m looking for help with **my laptop**
+- <sub><img src="https://i.imgur.com/WFE3b0d.jpeg" alt="student" width="17"/></sub> Vietnamese Student
+- <sub><img src="https://i.imgur.com/LXp0FH6.jpeg" alt="python" width="17"/></sub> Discord bot Developer
+- 🔒 Mainly working on private work/repository
+- <img style="width:17px; height:auto;" src="https://i.imgur.com/0PyW68F.png"> [My Discord Server](https://discord.gg/minhmg)!
 
-- 👨‍💻 All of my projects are available at [https://github.com/enousleep?tab=repositories](https://github.com/enousleep?tab=repositories)
+<br>
 
-- 📫 How to reach me **xuanquangforcontact@gmail.com**
+</div>
 
-- ⚡ Fun fact **I'm dumb LOL**
+## 📑 **Languages**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/enou456" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="enou456" height="30" width="40" /></a>
-<a href="https://discord.gg/minhmg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="minhmg" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/enousleep"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="enousleep" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=enousleep&show_icons=true&locale=en&layout=compact" alt="enousleep" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enousleep&show_icons=true&locale=en" alt="enousleep" /></p>
-
+| Fine | So bad |
+| :---: | :---: |
+| ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![Kotlin](https://img.shields.io/badge/Kotlin%20-purple.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=gray)|
+<br>
